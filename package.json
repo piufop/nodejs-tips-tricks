@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-tips-tricks",
+  "version": "1.0.0",
+  "description": "NodeJS tips tricks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piufop/nodejs-tips-tricks.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "tips",
+    "tricks"
+  ],
+  "author": "Fernanda, Hugo e Thalita",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/piufop/nodejs-tips-tricks/issues"
+  },
+  "homepage": "https://github.com/piufop/nodejs-tips-tricks#readme"
+}
